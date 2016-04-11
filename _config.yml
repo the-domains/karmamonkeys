@@ -1,3 +1,7 @@
+name: KarmaMonkeys
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.07384582
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.07384582
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4955793
-  brandStrength: 1
-  lightness: 0.4856631
   brandColors:
     - '#FFFFFF'
     - '#01A2D8'
     - '#D07A3A'
     - '#77B4CF'
     - '#39C5F3'
+  brandStrength: 1
+  lightness: 0.4856631
+  saturation: 0.4955793
   rhythmicContrast: 0.5035842
-layout_spectrum: 0
-name: KarmaMonkeys
+purpose: []
