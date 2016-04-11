@@ -13,7 +13,7 @@ collections:
 typography_spectrum: 0.07384582
 color:
   saturation: 0.4955793
-  brandStrength: 0.5682192
+  brandStrength: 1
   lightness: 0.4856631
   brandColors:
     - '#FFFFFF'
