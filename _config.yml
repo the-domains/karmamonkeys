@@ -1,0 +1,14 @@
+layout_spectrum: 0
+typography_spectrum: 0.07384582
+color:
+  saturation: 0.4955793
+  lightness: 0.07745291
+  brandStrength: 0.5682192
+  brandColors:
+    - '#FFFFFF'
+    - '#01A2D8'
+    - '#D07A3A'
+    - '#77B4CF'
+    - '#39C5F3'
+  rhythmicContrast: 0.5432661
+name: KarmaMonkeys
