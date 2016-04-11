@@ -1,14 +1,26 @@
-layout_spectrum: 0
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.07384582
 color:
   saturation: 0.4955793
-  lightness: 0.07745291
   brandStrength: 0.5682192
+  lightness: 0.4856631
   brandColors:
     - '#FFFFFF'
     - '#01A2D8'
     - '#D07A3A'
     - '#77B4CF'
     - '#39C5F3'
-  rhythmicContrast: 0.5432661
+  rhythmicContrast: 0.5035842
+layout_spectrum: 0
 name: KarmaMonkeys
