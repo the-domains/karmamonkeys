@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-12T12:59:25.345Z'
-dateModified: '2016-04-12T12:51:06.227Z'
+datePublished: '2016-04-12T13:07:00.749Z'
+dateModified: '2016-04-12T12:59:33.703Z'
 author: []
 title: 'Vegan Cheese Platter!'
 sourcePath: _posts/2016-04-12-vegan-cheese-platter.md
