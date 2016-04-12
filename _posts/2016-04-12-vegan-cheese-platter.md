@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:e57cd5cd-d28a-497e-8d3c-bc8b39280233'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-04-12T12:50:59.263Z'
+dateModified: '2016-04-12T12:50:07.346Z'
 author: []
-datePublished: '2016-04-12T12:49:37.362Z'
-publisher:
-  domain: ''
-  name: ''
 title: 'Vegan Cheese Platter!'
-dateModified: '2016-04-12T12:48:09.554Z'
 sourcePath: _posts/2016-04-12-vegan-cheese-platter.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: vegan-cheese-platter/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
