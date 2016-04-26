@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: 'Food that loves you!'
+title: 'Food that seriously loves you!'
 cta:
   domain: null
   bucket: null
